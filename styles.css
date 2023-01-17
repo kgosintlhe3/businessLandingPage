@@ -3,28 +3,40 @@
     background-color: #1F2937;
     height: 400px;
     color:#E5E7Eb;
-    display: flex;
     
+    
+    
+}
+
+.navbar
+{
+   display:flex;
+   
 }
 
 .headerLogo
 {
  color: F9FAF8;
- font-size: 24px;
- width: 300px;
- margin-left:200px;
+ font-size: 24px
+
+}
+
+.headerLogoDiv
+{
+    padding-left: 100px;
+    padding-top: 30px;
 }
 
 .aDiv1
 {
-    padding: 20px 20px 0px 400px ;
+    padding-left: 600px;
+    padding-top: 40px;
 }
-
-.aDiv2
+.aDiv2, .aDiv3
 {
-    padding-top: 20px;
+    padding-top: 40px;
+    
 }
-
 
 a 
 {
@@ -33,6 +45,32 @@ a
     margin: 20px;
     
     
+}
+
+.divMainTitle
+{
+    display:flex;
+    padding-left: 200px;
+    padding-top: 50px;
+}
+
+.DivImg
+{
+    padding-left: 150px;
+}
+
+img
+{
+    background-color: grey;
+    width: 400px;
+    height: 200px;
+    
+}
+
+button
+{
+    background-color: #3882f6;
+    color: white;
 }
 
 .divTwo
