@@ -3,6 +3,36 @@
     background-color: #1F2937;
     height: 400px;
     color:#E5E7Eb;
+    display: flex;
+    
+}
+
+.headerLogo
+{
+ color: F9FAF8;
+ font-size: 24px;
+ width: 300px;
+ margin-left:200px;
+}
+
+.aDiv1
+{
+    padding: 20px 20px 0px 400px ;
+}
+
+.aDiv2
+{
+    padding-top: 20px;
+}
+
+
+a 
+{
+    color: #E5E7Eb; 
+    font-size: 18px;
+    margin: 20px;
+    
+    
 }
 
 .divTwo
