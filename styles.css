@@ -1,0 +1,31 @@
+.divOne 
+{
+    background-color: #1F2937;
+    height: 400px;
+    color:#E5E7Eb;
+}
+
+.divTwo
+{
+    background-color: white;
+    height: 400px;
+}
+
+.divThree
+{
+  background-color: #E5E7Eb;
+  height: 400px;
+}
+
+.divFour
+{
+    background-color: white;
+    height: 400px;   
+}
+
+footer
+{
+    background-color: #1F2937;
+    height: 100px; 
+    color: #E5E7Eb;
+}
