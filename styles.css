@@ -54,6 +54,13 @@ a
     padding-top: 50px;
 }
 
+.MainTitle
+{
+    font-size: 48px;
+    font-weight:bolder;
+    color: F9FAF8;
+}
+
 .DivImg
 {
     padding-left: 150px;
@@ -63,7 +70,7 @@ img
 {
     background-color: grey;
     width: 400px;
-    height: 200px;
+    height: 230px;
     
 }
 
@@ -71,6 +78,10 @@ button
 {
     background-color: #3882f6;
     color: white;
+    border-radius: 8px;
+    width: 150px;
+    height: 30px;
+    font-weight: bold;
 }
 
 .divTwo
