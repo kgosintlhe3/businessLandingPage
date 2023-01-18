@@ -151,6 +151,47 @@ color: 1F2937;
 {
     background-color: white;
     height: 400px;   
+    display: flex;
+}
+
+.callboxdiv4
+{
+    margin-left: 250px;
+    margin-top: 150px;
+    background-color: #3882f6;
+    height: 150px;
+    width: 70%;
+    border-radius: 12px;
+}
+
+.signupbuttonbottomdiv
+{
+    margin-left: 550px;
+    margin-right: 250px;
+    padding-bottom: 0px;
+    
+    
+   
+}
+
+.callTwoActionDiv
+{
+    margin-left: 70px;
+    margin-top: 50px;
+    color: #E5E7Eb;
+  
+}
+
+.callTwoParaDiv
+{
+    margin-left: 70px;
+    color: #E5E7Eb;
+}
+
+
+.buttombutton
+{
+    border: solid #E5E7Eb;
 }
 
 footer
@@ -158,4 +199,12 @@ footer
     background-color: #1F2937;
     height: 100px; 
     color: #E5E7Eb;
+    margin-bottom: 0px;
+}
+
+.copyrightdiv 
+{
+    margin-left: 600px;
+    padding-top: 45px;
+    
 }
