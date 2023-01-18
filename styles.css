@@ -1,7 +1,7 @@
 .divOne 
 {
     background-color: #1F2937;
-    height: 400px;
+    height: 500px;
     color:#E5E7Eb;
     
     
@@ -23,13 +23,13 @@
 
 .headerLogoDiv
 {
-    padding-left: 100px;
+    padding-left: 200px;
     padding-top: 30px;
 }
 
 .aDiv1
 {
-    padding-left: 600px;
+    padding-left: 500px;
     padding-top: 40px;
 }
 .aDiv2, .aDiv3
@@ -69,8 +69,8 @@ a
 img
 {
     background-color: grey;
-    width: 400px;
-    height: 230px;
+    width: 450px;
+    height: 260px;
     
 }
 
@@ -87,7 +87,22 @@ button
 .divTwo
 {
     background-color: white;
-    height: 400px;
+    height: 500px;
+}
+
+.divTwoTitle
+{
+   padding-left: 550px;
+   padding-top: 30px;
+   padding-right: 450px;
+    height: 70px;
+    
+}
+
+.divTwoHTwo
+{
+font-size: 30px;
+color: 1F2937;
 }
 
 .divThree
