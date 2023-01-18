@@ -94,21 +94,57 @@ button
 {
    padding-left: 550px;
    padding-top: 30px;
-   padding-right: 450px;
+   padding-right: 400px;
     height: 70px;
     
 }
 
 .divTwoHTwo
 {
-font-size: 30px;
+font-size: 36px;
 color: 1F2937;
 }
+
+.divBoxes, .divimgbox
+{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.div1Boxes, .div2Boxes, .div3Boxes, .div4Boxes
+{
+    height: 170px;
+    width: 150px;
+    border: solid blue;
+    border-radius: 10px;
+    margin: 50px 0px 30px 0px;
+    
+
+}
+
+
+
 
 .divThree
 {
   background-color: #E5E7Eb;
   height: 400px;
+}
+
+.paragraphdiv3
+{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.nameOfCustomerDiv3
+{
+    margin-left: 900px;
+    padding-top: 20px;
+    font-size: 30px;
 }
 
 .divFour
